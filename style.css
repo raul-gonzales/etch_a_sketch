@@ -1,0 +1,12 @@
+.div-grid-container {
+    display: flex;
+}
+
+.div-cell {
+    width: 5px;
+    height: 5px;
+}
+
+.div-cell:hover {
+    background-color: rgb(12, 12, 12);
+}
